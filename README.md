@@ -6,7 +6,7 @@ List of Eusebian Canons, with the beginings and endings of each section
 
 ## Open GNT
 
-See <href="https://github.com/eliranwong/OpenGNT" target="_blank">https://github.com/eliranwong/OpenGNT</a>.
+See <a href="https://github.com/eliranwong/OpenGNT" target="_blank">https://github.com/eliranwong/OpenGNT</a>.
 
 The main text of Open Greek New Testament Project, OGNT in short, is released under the following license:
 
@@ -18,17 +18,17 @@ Information given for attribution:
 
 ## Eusebius of Caesarea, The Gospel Canon Tables
 
-See <href="https://www.tertullian.org/fathers/eusebius_canon_tables_01.htm" target="_blank">https://www.tertullian.org/fathers/eusebius_canon_tables_01.htm</a>.
+See <a href="https://www.tertullian.org/fathers/eusebius_canon_tables_01.htm" target="_blank">https://www.tertullian.org/fathers/eusebius_canon_tables_01.htm</a>.
 
 The bottom of the page states:
 
 > This text was created by Kevin P. Edgecomb.  All material on this page is in the public domain - copy freely.
 
+<!--
 ## adamb924/eusebian-canons on GitHub
 
-See <href="https://github.com/adamb924/eusebian-canons" target="_blank">https://github.com/adamb924/eusebian-canons</a>
+See <a href="https://github.com/adamb924/eusebian-canons" target="_blank">https://github.com/adamb924/eusebian-canons</a>
 
-<!--
 No licensing information is available.  However, the material in this repository does not rely on adamb924.  Material in adamb924 was o
 adamb924 at gmail dot com
 -->
