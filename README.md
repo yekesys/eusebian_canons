@@ -35,5 +35,8 @@ adamb924 at gmail dot com
 
 
 
+<a title="Eusebius of Caesarea
+, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg"><img width="128" alt="German - Leaf from Gospels - Walters W424R - Open Obverse" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg/128px-German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg?20120325233856"></a>
+<a href="https://commons.wikimedia.org/wiki/File:German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg">Eusebius of Caesarea</a>, Public domain, via Wikimedia Commons
 
 
