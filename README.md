@@ -2,7 +2,7 @@
 List of Eusebian Canons, with the beginings and endings of each section
 
 
-# License:
+# License
 
 ## Open GNT
 
@@ -35,8 +35,24 @@ adamb924 at gmail dot com
 
 
 
+# Images
+
+<p style="text-align: center">
 <a title="Eusebius of Caesarea
-, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg"><img width="128" alt="German - Leaf from Gospels - Walters W424R - Open Obverse" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg/128px-German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg?20120325233856"></a>
-<a href="https://commons.wikimedia.org/wiki/File:German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg">Eusebius of Caesarea</a>, Public domain, via Wikimedia Commons
+, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg"><img width="512" alt="German - Leaf from Gospels - Walters W424R - Open Obverse" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg/512px-German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg?20120325233856"></a>
+<br />
+<a href="https://commons.wikimedia.org/wiki/File:German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg">Eusebius of Caesarea</a><br />
+Leaf from Gospels, showing the first canon, circa 875 (Middle Ages)<br />
+Public domain, via Wikimedia Commons<br />
+</p>
+
+
+<p style="text-align: center">
+<a title="Bibliothèque nationale de France
+, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Byzantinischer_Maler_um_1020_002.jpg"><img width="512" alt="Byzantinischer Maler um 1020 002" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Byzantinischer_Maler_um_1020_002.jpg/512px-Byzantinischer_Maler_um_1020_002.jpg?20050519045919"></a>
+<br />
+https://upload.wikimedia.org/wikipedia/commons/7/7e/Byzantinischer_Maler_um_1020_002.jpg<br />
+Bibliothèque nationale de France, Public domain, via Wikimedia Commons<br />
+</p>
 
 
