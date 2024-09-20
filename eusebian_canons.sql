@@ -48,7 +48,7 @@ INSERT INTO eusebian_section VALUES('Mt',32,5,14,'','001815',5,16,'','001870',''
 INSERT INTO eusebian_section VALUES('Mt',33,5,17,'','001871',5,17,'','001885','');
 INSERT INTO eusebian_section VALUES('Mt',34,5,18,'','001886',5,18,'','001912','');
 INSERT INTO eusebian_section VALUES('Mt',35,5,19,'','001913',5,24,'','002066','');
-INSERT INTO eusebian_section VALUES('Mt',36,5,25,'','002067',5,26,'','002109',' (K.P.Edgecomb has 5.25 to 5.25)');
+INSERT INTO eusebian_section VALUES('Mt',36,5,25,'','002067',5,26,'','002109','');
 INSERT INTO eusebian_section VALUES('Mt',37,5,27,'','002110',5,39,'A','002333','');
 INSERT INTO eusebian_section VALUES('Mt',38,5,39,'B','002334',5,40,'','002362','');
 INSERT INTO eusebian_section VALUES('Mt',39,5,41,'','002363',5,43,'','002396','');
@@ -90,7 +90,7 @@ INSERT INTO eusebian_section VALUES('Mt',74,9,18,'','004558',9,26,'','004695',''
 INSERT INTO eusebian_section VALUES('Mt',75,9,27,'','004696',9,34,'','004809','');
 INSERT INTO eusebian_section VALUES('Mt',76,9,35,'','004810',9,35,'','004837','');
 INSERT INTO eusebian_section VALUES('Mt',77,9,36,'','004838',9,36,'','004854','');
-INSERT INTO eusebian_section VALUES('Mt',78,9,37,'','004855',9,38,'','004880',' (K.P.Edgecomb has 9.37 to 9.37)');
+INSERT INTO eusebian_section VALUES('Mt',78,9,37,'','004855',9,38,'','004880','');
 INSERT INTO eusebian_section VALUES('Mt',79,10,1,'','004881',10,1,'','004901','');
 INSERT INTO eusebian_section VALUES('Mt',80,10,2,'','004902',10,4,'','004954','');
 INSERT INTO eusebian_section VALUES('Mt',81,10,5,'','004955',10,6,'','004984','');
@@ -130,7 +130,7 @@ INSERT INTO eusebian_section VALUES('Mt',114,12,1,'','006097',12,4,'','006179','
 INSERT INTO eusebian_section VALUES('Mt',115,12,5,'','006180',12,8,'','006232','');
 INSERT INTO eusebian_section VALUES('Mt',116,12,9,'','006233',12,13,'','006311','');
 INSERT INTO eusebian_section VALUES('Mt',117,12,14,'','006312',12,14,'','006328','');
-INSERT INTO eusebian_section VALUES('Mt',118,12,15,'','006329',12,21,'','006415','Nestle-Aland has asterisk on the line');
+INSERT INTO eusebian_section VALUES('Mt',118,12,15,'','006329',12,21,'','006415','');
 INSERT INTO eusebian_section VALUES('Mt',119,12,22,'','006416',12,22,'','006431','');
 INSERT INTO eusebian_section VALUES('Mt',120,12,23,'','006432',12,23,'','006444','');
 INSERT INTO eusebian_section VALUES('Mt',121,12,24,'','006445',12,24,'','006462','');
@@ -187,13 +187,13 @@ INSERT INTO eusebian_section VALUES('Mt',171,16,27,'','009724',16,27,'','009748'
 INSERT INTO eusebian_section VALUES('Mt',172,16,28,'','009749',17,9,'','009942','');
 INSERT INTO eusebian_section VALUES('Mt',173,17,10,'','009943',17,13,'','010006','');
 INSERT INTO eusebian_section VALUES('Mt',174,17,14,'','010007',17,18,'','010092','');
-INSERT INTO eusebian_section VALUES('Mt',175,17,19,'','010093',17,21,'','010139','');
+INSERT INTO eusebian_section VALUES('Mt',175,17,19,'','010093',17,21,'','010139','Mt 17:21 not in most mss per Nestle-Aland');
 INSERT INTO eusebian_section VALUES('Mt',176,17,22,'','010140',17,23,'','010169','');
 INSERT INTO eusebian_section VALUES('Mt',177,17,24,'','010170',17,27,'','010270','');
 INSERT INTO eusebian_section VALUES('Mt',178,18,1,'','010271',18,5,'','010348','');
 INSERT INTO eusebian_section VALUES('Mt',179,18,6,'','010349',18,7,'','010397','');
 INSERT INTO eusebian_section VALUES('Mt',180,18,8,'','010398',18,9,'','010468','');
-INSERT INTO eusebian_section VALUES('Mt',181,18,10,'','010469',18,10,'','010495',' (-11, in note)');
+INSERT INTO eusebian_section VALUES('Mt',181,18,10,'','010469',18,11,'','010495','Mt 18:11 not in most mss per Nestle-Aland');
 INSERT INTO eusebian_section VALUES('Mt',182,18,12,'','010496',18,14,'','010560','');
 INSERT INTO eusebian_section VALUES('Mt',183,18,15,'','010561',18,15,'','010583','');
 INSERT INTO eusebian_section VALUES('Mt',184,18,16,'','010584',18,17,'','010625','');
@@ -244,7 +244,7 @@ INSERT INTO eusebian_section VALUES('Mt',228,23,4,'','013581',23,4,'','013602','
 INSERT INTO eusebian_section VALUES('Mt',229,23,5,'','013603',23,7,'','013647','');
 INSERT INTO eusebian_section VALUES('Mt',230,23,8,'','013648',23,11,'','013696','');
 INSERT INTO eusebian_section VALUES('Mt',231,23,12,'','013697',23,12,'','013706','');
-INSERT INTO eusebian_section VALUES('Mt',232,23,13,'','013707',23,13,'','013731',' (-14, in note)');
+INSERT INTO eusebian_section VALUES('Mt',232,23,13,'','013707',23,14,'','013731','Mt 23:14 not in most mss per Nestle-Aland');
 INSERT INTO eusebian_section VALUES('Mt',233,23,15,'','013732',23,22,'','013876','');
 INSERT INTO eusebian_section VALUES('Mt',234,23,23,'','013877',23,23,'','013913','');
 INSERT INTO eusebian_section VALUES('Mt',235,23,24,'','013914',23,24,'','013923','');
@@ -438,7 +438,7 @@ INSERT INTO eusebian_section VALUES('Mk',67,6,47,'','022321',6,50,'','022399',''
 INSERT INTO eusebian_section VALUES('Mk',68,6,51,'','022400',6,53,'','022439','');
 INSERT INTO eusebian_section VALUES('Mk',69,6,54,'','022440',6,56,'','022501','');
 INSERT INTO eusebian_section VALUES('Mk',70,7,1,'','022502',7,4,'','022572','');
-INSERT INTO eusebian_section VALUES('Mk',71,7,5,'','022573',7,16,'','022758','');
+INSERT INTO eusebian_section VALUES('Mk',71,7,5,'','022573',7,16,'','022758','Mk 7:16 not in most mss per Nestle-Aland');
 INSERT INTO eusebian_section VALUES('Mk',72,7,17,'','022759',7,26,'A','022908','');
 INSERT INTO eusebian_section VALUES('Mk',73,7,26,'B','022909',7,30,'','022991','');
 INSERT INTO eusebian_section VALUES('Mk',74,7,31,'','022992',7,36,'A','023082','');
@@ -467,8 +467,8 @@ INSERT INTO eusebian_section VALUES('Mk',96,9,37,'B','024364',9,37,'B','024375',
 INSERT INTO eusebian_section VALUES('Mk',97,9,38,'','024376',9,40,'','024426','');
 INSERT INTO eusebian_section VALUES('Mk',98,9,41,'','024427',9,41,'','024448','');
 INSERT INTO eusebian_section VALUES('Mk',99,9,42,'','024449',9,42,'','024477','');
-INSERT INTO eusebian_section VALUES('Mk',100,9,43,'','024478',9,47,'','024561','');
-INSERT INTO eusebian_section VALUES('Mk',101,9,48,'','024562',9,49,'','024576',' (K.P.Edgecomb has 9.49 to 9.49)');
+INSERT INTO eusebian_section VALUES('Mk',100,9,43,'','024478',9,47,'','024561','Mk 9:44 and 9:46 not in most mss per Nestle-Aland');
+INSERT INTO eusebian_section VALUES('Mk',101,9,48,'','024562',9,49,'','024576','');
 INSERT INTO eusebian_section VALUES('Mk',102,9,50,'','024577',9,50,'','024597','');
 INSERT INTO eusebian_section VALUES('Mk',103,10,1,'','024598',10,9,'','024714','');
 INSERT INTO eusebian_section VALUES('Mk',104,10,10,'','024715',10,10,'','024725','');
@@ -493,7 +493,7 @@ INSERT INTO eusebian_section VALUES('Mk',122,11,18,'','025787',11,18,'','025810'
 INSERT INTO eusebian_section VALUES('Mk',123,11,19,'','025811',11,21,'','025840','');
 INSERT INTO eusebian_section VALUES('Mk',124,11,22,'','025841',11,23,'','025880','');
 INSERT INTO eusebian_section VALUES('Mk',125,11,24,'','025881',11,24,'','025895','');
-INSERT INTO eusebian_section VALUES('Mk',126,11,25,'','025896',11,25,'','025919',' (-26, in note)');
+INSERT INTO eusebian_section VALUES('Mk',126,11,25,'','025896',11,26,'','025919','Mk 11:26 not in most mss per Nestle-Aland');
 INSERT INTO eusebian_section VALUES('Mk',127,11,27,'','025920',11,33,'','026044','');
 INSERT INTO eusebian_section VALUES('Mk',128,12,1,'','026045',12,11,'','026206','');
 INSERT INTO eusebian_section VALUES('Mk',129,12,12,'','026207',12,12,'','026226','');
@@ -583,7 +583,7 @@ INSERT INTO eusebian_section VALUES('Mk',212,15,24,'','028947',15,24,'','028961'
 INSERT INTO eusebian_section VALUES('Mk',213,15,25,'','028962',15,25,'','028968','');
 INSERT INTO eusebian_section VALUES('Mk',214,15,26,'','028969',15,26,'','028980','');
 INSERT INTO eusebian_section VALUES('Mk',215,15,27,'','028981',15,27,'','028994','');
-INSERT INTO eusebian_section VALUES('Mk',216,15,28,'','028995',15,28,'','028994',' (in note)');
+INSERT INTO eusebian_section VALUES('Mk',216,15,28,'','028995',15,28,'','028994','Mk 15:28 not in most mss per Nestle-Aland');
 INSERT INTO eusebian_section VALUES('Mk',217,15,29,'','028995',15,30,'','029021','');
 INSERT INTO eusebian_section VALUES('Mk',218,15,31,'','029022',15,32,'A','029052','');
 INSERT INTO eusebian_section VALUES('Mk',219,15,32,'B','029053',15,32,'B','029059','');
@@ -769,7 +769,7 @@ INSERT INTO eusebian_section VALUES('Lk',157,12,41,'','040306',12,44,'','040369'
 INSERT INTO eusebian_section VALUES('Lk',158,12,45,'','040370',12,46,'','040426','');
 INSERT INTO eusebian_section VALUES('Lk',159,12,47,'','040427',12,48,'','040474','');
 INSERT INTO eusebian_section VALUES('Lk',160,12,49,'','040475',12,53,'','040554','');
-INSERT INTO eusebian_section VALUES('Lk',161,12,54,'','040555',12,57,'','040611',' (K.P.Edgecomb has 12.54-56)');
+INSERT INTO eusebian_section VALUES('Lk',161,12,54,'','040555',12,57,'','040611','');
 INSERT INTO eusebian_section VALUES('Lk',162,12,58,'','040612',12,59,'','040660','');
 INSERT INTO eusebian_section VALUES('Lk',163,13,1,'','040661',13,5,'','040746','');
 INSERT INTO eusebian_section VALUES('Lk',164,13,6,'','040747',13,13,'','040883','');
@@ -793,7 +793,7 @@ INSERT INTO eusebian_section VALUES('Lk',181,14,16,'','041577',14,24,'','041739'
 INSERT INTO eusebian_section VALUES('Lk',182,14,25,'','041740',14,27,'','041801','');
 INSERT INTO eusebian_section VALUES('Lk',183,14,28,'','041802',14,32,'','041885','');
 INSERT INTO eusebian_section VALUES('Lk',184,14,33,'','041886',14,33,'','041902','');
-INSERT INTO eusebian_section VALUES('Lk',185,14,34,'','041903',14,35,'','041931',' (K.P.Edgecomb has 14.34 to 14.34)');
+INSERT INTO eusebian_section VALUES('Lk',185,14,34,'','041903',14,35,'','041931','');
 INSERT INTO eusebian_section VALUES('Lk',186,15,1,'','041932',15,2,'','041959','');
 INSERT INTO eusebian_section VALUES('Lk',187,15,3,'','041960',15,7,'','042048','');
 INSERT INTO eusebian_section VALUES('Lk',188,15,8,'','042049',15,9,'','042087','');
@@ -820,7 +820,7 @@ INSERT INTO eusebian_section VALUES('Lk',208,17,28,'','043521',17,30,'','043560'
 INSERT INTO eusebian_section VALUES('Lk',209,17,31,'','043561',17,31,'','043590','');
 INSERT INTO eusebian_section VALUES('Lk',210,17,32,'','043591',17,32,'','043594','');
 INSERT INTO eusebian_section VALUES('Lk',211,17,33,'','043595',17,33,'','043609','');
-INSERT INTO eusebian_section VALUES('Lk',212,17,34,'','043610',17,35,'','043639',' (+36, in note)');
+INSERT INTO eusebian_section VALUES('Lk',212,17,34,'','043610',17,36,'','043639','Lk 17:36 not in most mss per Nestle-Aland');
 INSERT INTO eusebian_section VALUES('Lk',213,17,37,'','043640',17,37,'','043657','');
 INSERT INTO eusebian_section VALUES('Lk',214,18,1,'','043658',18,14,'A','043901','');
 INSERT INTO eusebian_section VALUES('Lk',215,18,14,'B','043902',18,14,'B','043912','');
@@ -917,14 +917,14 @@ INSERT INTO eusebian_section VALUES('Lk',305,23,10,'','047624',23,10,'','047633'
 INSERT INTO eusebian_section VALUES('Lk',306,23,11,'','047634',23,12,'','047674','');
 INSERT INTO eusebian_section VALUES('Lk',307,23,13,'','047675',23,14,'','047714','');
 INSERT INTO eusebian_section VALUES('Lk',308,23,15,'','047715',23,16,'','047734','');
-INSERT INTO eusebian_section VALUES('Lk',309,23,17,'','047735',23,17,'','047734',' (in note)');
+INSERT INTO eusebian_section VALUES('Lk',309,23,17,'','047735',23,17,'','047734','Lk 23:17 not in most mss per Nestle-Aland');
 INSERT INTO eusebian_section VALUES('Lk',310,23,18,'','047735',23,19,'','047760','');
 INSERT INTO eusebian_section VALUES('Lk',311,23,20,'','047761',23,21,'','047777','');
 INSERT INTO eusebian_section VALUES('Lk',312,23,22,'','047778',23,22,'','047798','');
 INSERT INTO eusebian_section VALUES('Lk',313,23,23,'','047799',23,23,'','047811','');
 INSERT INTO eusebian_section VALUES('Lk',314,23,24,'','047812',23,25,'','047837','');
 INSERT INTO eusebian_section VALUES('Lk',315,23,26,'','047838',23,26,'','047856','');
-INSERT INTO eusebian_section VALUES('Lk',316,23,27,'','047857',23,31,'','047939',' (K.P.Edgecomb has 23.27 to 23.27)');
+INSERT INTO eusebian_section VALUES('Lk',316,23,27,'','047857',23,31,'','047939','');
 INSERT INTO eusebian_section VALUES('Lk',317,23,32,'','047940',23,32,'','047948','');
 INSERT INTO eusebian_section VALUES('Lk',318,23,33,'A','047949',23,33,'A','047960','');
 INSERT INTO eusebian_section VALUES('Lk',319,23,33,'B','047961',23,33,'B','047971','');
@@ -988,7 +988,7 @@ INSERT INTO eusebian_section VALUES('Jn',34,4,43,'','051764',4,43,'','051773',''
 INSERT INTO eusebian_section VALUES('Jn',35,4,44,'','051774',4,44,'','051786','');
 INSERT INTO eusebian_section VALUES('Jn',36,4,45,'','051787',4,46,'A','051825','');
 INSERT INTO eusebian_section VALUES('Jn',37,4,46,'B','051826',4,54,'','051987','');
-INSERT INTO eusebian_section VALUES('Jn',38,5,1,'','051988',5,10,'','052128','');
+INSERT INTO eusebian_section VALUES('Jn',38,5,1,'','051988',5,10,'','052128','Jn 5:3B-4 not in most mss per Nestle-Aland');
 INSERT INTO eusebian_section VALUES('Jn',39,5,11,'','052129',5,23,'A','052360','');
 INSERT INTO eusebian_section VALUES('Jn',40,5,23,'B','052361',5,23,'B','052372','');
 INSERT INTO eusebian_section VALUES('Jn',41,5,24,'','052373',5,30,'A','052505','');
@@ -1152,7 +1152,7 @@ INSERT INTO eusebian_section VALUES('Jn',198,19,18,'B','063109',19,18,'B','06312
 INSERT INTO eusebian_section VALUES('Jn',199,19,19,'','063121',19,19,'','063141','');
 INSERT INTO eusebian_section VALUES('Jn',200,19,20,'','063142',19,22,'','063194','');
 INSERT INTO eusebian_section VALUES('Jn',201,19,23,'','063195',19,24,'B','063257','');
-INSERT INTO eusebian_section VALUES('Jn',202,19,24,'C','063258',19,27,'C','063326',' (=19.25 NRSV) -27');
+INSERT INTO eusebian_section VALUES('Jn',202,19,24,'C','063258',19,27,'','063326','Jn 19:24C in most texts is in Jn 19:25 in NRSV');
 INSERT INTO eusebian_section VALUES('Jn',203,19,28,'','063327',19,30,'A','063365','');
 INSERT INTO eusebian_section VALUES('Jn',204,19,30,'B','063366',19,30,'B','063372','');
 INSERT INTO eusebian_section VALUES('Jn',205,19,31,'','063373',19,37,'','063494','');
