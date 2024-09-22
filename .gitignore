@@ -1,9 +1,13 @@
 
-eusebian_canons.db
-notes_not_for_github.txt
+eusebian_canons/eusebian_canons.db
+eusebian_canons/notes_not_for_github.txt
 .*swp
-update_db.sh
-update_db.sql
+eusebian_canons/update_db.sh
+eusebian_canons/update_db.sql
 eusebian_canons_backup*
 
+mirr_exec_starttime_dege_chris.txt
+eusebian_canons/mirr_exec_starttime_dege_chris.txt
+
+backups
 
