@@ -53,7 +53,7 @@ Public domain, via Wikimedia Commons<br />
 <br />
 https://upload.wikimedia.org/wikipedia/commons/7/7e/Byzantinischer_Maler_um_1020_002.jpg<br />
 Bibliothèque nationale de France, Public domain, via Wikimedia Commons<br />
-Canon 2, starting at 103-1-70
+The page shows canon 2 starting at 103-1-70, using the Greek numbering system.
 </p>
 
 
