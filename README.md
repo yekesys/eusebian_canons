@@ -1,6 +1,7 @@
 # eusebian_canons
 List of Eusebian Canons, with the beginings and endings of each section
 
+For any questions, please contact me at chris _ thullen at yekesys do com.
 
 # Sources
 
@@ -14,6 +15,8 @@ The main text of Open Greek New Testament Project, OGNT in short, is released un
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Greek New Testament Project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://marvel.bible" property="cc:attributionName" rel="cc:attributionURL">Eliran Wong</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/OpenGNT" rel="dct:source">https://github.com/eliranwong/OpenGNT</a>.<br>Online Readers are available at <a href='https://marvel.bible'>https://Marvel.Bible</a> and <a href='https://OpenGNT.com'>https://OpenGNT.com</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://marvel.bible/contact/contactform.php" rel="cc:morePermissions">https://marvel.bible/contact/contactform.php</a>.
 <br><br>
+
+This page is released under this license.
 
 ## Eusebius of Caesarea, The Gospel Canon Tables
 
@@ -48,6 +51,7 @@ The page from Keven P. Edgecomb was parsed and compared to Adam Baker's informat
 <a href="https://commons.wikimedia.org/wiki/File:German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg">Eusebius of Caesarea</a><br />
 Leaf from Gospels, showing the first canon, circa 875 (Middle Ages)<br />
 Public domain, via Wikimedia Commons<br />
+The page shows canon 2 starting at 8-2-7-10, using the Roman numbering system.
 </p>
 
 
