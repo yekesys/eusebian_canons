@@ -9,22 +9,20 @@ For any questions, please contact chris _ thullen at yekesys do com.
 
 # Sources
 
-## Open GNT
+### Open GNT
 
-The OGNTsort numbers are found in the repository.
+The OGNTsort numbers are found in the "OpenGNT" repository.  See <a href="https://github.com/eliranwong/OpenGNT" target="_blank">https://github.com/eliranwong/OpenGNT</a>.
 
-See <a href="https://github.com/eliranwong/OpenGNT" target="_blank">https://github.com/eliranwong/OpenGNT</a>.
-
-The source of the Greek New Testament is "OpenGNT_BASE_TEXT.zip" in the root of the "OpenGNT" repository in GitHub.  
+The source of the Greek New Testament is in "OpenGNT_BASE_TEXT.zip", which is at the root of the "OpenGNT" repository in GitHub.  
 
 The main text of Open Greek New Testament Project, OGNT in short, is released under the following license:
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Greek New Testament Project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://marvel.bible" property="cc:attributionName" rel="cc:attributionURL">Eliran Wong</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/OpenGNT" rel="dct:source">https://github.com/eliranwong/OpenGNT</a>.<br>Online Readers are available at <a href='https://marvel.bible'>https://Marvel.Bible</a> and <a href='https://OpenGNT.com'>https://OpenGNT.com</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://marvel.bible/contact/contactform.php" rel="cc:morePermissions">https://marvel.bible/contact/contactform.php</a>.
-<br><br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Greek New Testament Project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://marvel.bible" property="cc:attributionName" rel="cc:attributionURL">Eliran Wong</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/OpenGNT" rel="dct:source">https://github.com/eliranwong/OpenGNT</a>.
 
-This page is released under this license.
 
-## Eusebius of Caesarea, The Gospel Canon Tables
+This page is released under this same license.
+
+### Eusebius of Caesarea, The Gospel Canon Tables
 
 See <a href="https://www.tertullian.org/fathers/eusebius_canon_tables_01.htm" target="_blank">https://www.tertullian.org/fathers/eusebius_canon_tables_01.htm</a>.
 
@@ -32,13 +30,13 @@ The bottom of the page states:
 
 > This text was created by Kevin P. Edgecomb.  All material on this page is in the public domain - copy freely.
 
-## adamb924/eusebian-canons on GitHub
+### adamb924/eusebian-canons on GitHub
 
 See <a href="https://github.com/adamb924/eusebian-canons" target="_blank">https://github.com/adamb924/eusebian-canons</a>.
 
 Used with the author's permission.
 
-## Novum Testamentum Graece
+### Novum Testamentum Graece
 
 Nestle E., Nestle E., Aland K., et Al. (1979). Novum Testamentum Graece. Deutsche Bibelstiftung, Stuttgart, 26. Auflage.
 
@@ -52,11 +50,6 @@ Keven P. Edgecomb gives the verse or part of verse.  To get the words, each sect
  * When the line is in the middle of a verse and contains a punctuation mark, the first word after the punctuation mark is the start of the section.
  * When the line contains multiple punctuation marks, the first word after the major punctuation mark is the start of the section.  A period takes priority over a colon (upper dot), which takes priority over a comma.
  * In the few ambiguous cases, the context was taken into consideration.
-
-
-The phrase "Bk ch:vs not in most mss per Nestle-Aland" refers to the fact that the verse vs in book Bk and chapter ch is absent in most ancient Greek manuscripts (mss) according to the critical text compiled by the Nestle-Aland Novum Testamentum Graece.  While some manuscripts include the verse, it is not found in most of the earliest and most reliable manuscripts.  Many modern Bible translations either omit it or include it in brackets with a footnote.
-
-## Differences
 
 The following differences were found between Kevin P. Edgecomb and Nestle-Aland.  The information from Nestle-Aland was prefered.
 
