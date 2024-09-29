@@ -50,17 +50,15 @@ Keven P. Edgecomb gives the verse or part of verse.  To get the words, each sect
 
  * When the line where the section number in the margin is located contains the start of the verse, the first word of the verse is the start of the Eusebian section.
  * When the line is in the middle of a verse and contains a punctuation mark, the first word after the punctuation mark is the start of the section.
- * When the line contains multiple punctuation marks, the first word after the major punctuation mark is the start of the section.  A period takes priority of a colon (upper dot), which takes priority over a comma.
+ * When the line contains multiple punctuation marks, the first word after the major punctuation mark is the start of the section.  A period takes priority over a colon (upper dot), which takes priority over a comma.
  * In the few ambiguous cases, the context was taken into consideration.
 
-
-## Notes
 
 The phrase "Bk ch:vs not in most mss per Nestle-Aland" refers to the fact that the verse vs in book Bk and chapter ch is absent in most ancient Greek manuscripts (mss) according to the critical text compiled by the Nestle-Aland Novum Testamentum Graece.  While some manuscripts include the verse, it is not found in most of the earliest and most reliable manuscripts.  Many modern Bible translations either omit it or include it in brackets with a footnote.
 
 ## Differences
 
-The following differences were found between Kevin P. Edgecomb and Nestle-Aland:
+The following differences were found between Kevin P. Edgecomb and Nestle-Aland.  The information from Nestle-Aland was prefered.
 
 <table>
 <tr><th>Book-sct</th><th>Nestle-Aland</th><th>K.P.Edgecomb</th><th>Comment</th></tr>
@@ -81,6 +79,8 @@ The following differences were found between Kevin P. Edgecomb and Nestle-Aland:
 
 
 # Images
+
+As an illustration of the importance of Eusebian canons, two images below show examples in manuscripts.
 
 <p style="text-align: center">
 <a title="Eusebius of Caesarea
