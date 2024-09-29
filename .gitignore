@@ -1,9 +1,13 @@
 
+eusebian_canons/OpenGNT_v3_3_with_eus.csv
+eusebian_canons/OpenGNT_version3_3.csv
+
 eusebian_canons/eusebian_canons.db
 eusebian_canons/notes_not_for_github.txt
 .*swp
 eusebian_canons/update_db.sh
 eusebian_canons/update_db.sql
+
 eusebian_canons_backup*
 
 mirr_exec_starttime_dege_chris.txt
@@ -14,5 +18,10 @@ README_copy.sh
 
 eusebian_canons/Pipfile
 eusebian_canons/export_to_csv.py
+eusebian_canons/export_to_csv.sh
 eusebian_canons/install.txt
+
+eusebian_canons/add_eusebian_info_to_opengnt.py
+eusebian_canons/add_eusebian_info_to_opengnt.sh
+
 

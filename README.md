@@ -1,7 +1,11 @@
 # eusebian_canons
 List of Eusebian Canons, with the beginings and endings of each section
 
-For any questions, please contact me at chris _ thullen at yekesys do com.
+The list of Eusebian Canons is sorted according to Nestle-Aland's list.  The column `na_sort_id` means "Nestle-Aland sort ID."  The values starting at 1,000 are for canon 1, those starting at 2,000 for canon 2, and so on until 10,000 for canon 10.
+ 
+The source of the Greek New Testament is "OpenGNT_BASE_TEXT.zip" in the root of the "OpenGNT" repository in GitHub (see below).  The zip file is extracted to "OpenGNT_version3_3.csv".  At the end of each row, the Eusebian section information was added in the format "[tab]section_number".  This gives the Eusebien section number for each word of the gospels.  For the books other than the gospels, a simple "[tab]" was added to the end of each row.
+
+For any questions, please contact chris _ thullen at yekesys do com.
 
 # Sources
 
@@ -10,6 +14,8 @@ For any questions, please contact me at chris _ thullen at yekesys do com.
 The OGNTsort numbers are found in the repository.
 
 See <a href="https://github.com/eliranwong/OpenGNT" target="_blank">https://github.com/eliranwong/OpenGNT</a>.
+
+The source of the Greek New Testament is "OpenGNT_BASE_TEXT.zip" in the root of the "OpenGNT" repository in GitHub.  
 
 The main text of Open Greek New Testament Project, OGNT in short, is released under the following license:
 
@@ -30,15 +36,47 @@ The bottom of the page states:
 
 See <a href="https://github.com/adamb924/eusebian-canons" target="_blank">https://github.com/adamb924/eusebian-canons</a>.
 
-Used with the Adam Baker's permission.
+Used with the author's permission.
 
 ## Novum Testamentum Graece
 
 Nestle E., Nestle E., Aland K., et Al. (1979). Novum Testamentum Graece. Deutsche Bibelstiftung, Stuttgart, 26. Auflage.
 
-## Method
+# Method
 
 The page from Keven P. Edgecomb was parsed and compared to Adam Baker's information for verification.  Each entry was then compared to Nestle-Aland.  If the information differed, Nestle-Aland was considered the most reliable.
+
+Keven P. Edgecomb gives the verse or part of verse.  To get the words, each section was compared to the notes in the margin of Nestle-Aland.
+
+ * When the line where the section number in the margin is located contains the start of the verse, the first word of the verse is the start of the Eusebian section.
+ * When the line is in the middle of a verse and contains a punctuation mark, the first word after the punctuation mark is the start of the section.
+ * When the line contains multiple punctuation marks, the first word after the major punctuation mark is the start of the section.  A period takes priority of a colon (upper dot), which takes priority over a comma.
+ * In the few ambiguous cases, the context was taken into consideration.
+
+
+## Notes
+
+The phrase "Bk ch:vs not in most mss per Nestle-Aland" refers to the fact that the verse vs in book Bk and chapter ch is absent in most ancient Greek manuscripts (mss) according to the critical text compiled by the Nestle-Aland Novum Testamentum Graece.  While some manuscripts include the verse, it is not found in most of the earliest and most reliable manuscripts.  Many modern Bible translations either omit it or include it in brackets with a footnote.
+
+## Differences
+
+The following differences were found between Kevin P. Edgecomb and Nestle-Aland:
+
+<table>
+<tr><th>Book-sct</th><th>Nestle-Aland</th><th>K.P.Edgecomb</th><th>Comment</th></tr>
+<tr><td>Mt   6</td><td>Canon 10   </td><td>Canon 1    </td><td>Canon differs</td></tr>
+<tr><td>Mt  36</td><td>Mt  5:25-26</td><td>Mt  5:25-25</td><td>End differs</td></tr>
+<tr><td>Mt  78</td><td>Mt  9:37-38</td><td>Mt  9:37-37</td><td>End differs</td></tr>
+<tr><td>Mt 124</td><td>Canon 10   </td><td>Canon 1    </td><td>Canon differs</td></tr>
+<tr><td>Mk 101</td><td>Mk  9:48-49</td><td>Mk  9:49-49</td><td>Start differs</td></tr>
+<tr><td>Lk 161</td><td>Lk 12:54-57</td><td>Lk 12:54-56</td><td>End differs</td></tr>
+<tr><td>Lk 185</td><td>Lk 14:34-35</td><td>Lk 14:34-34</td><td>End differs</td></tr>
+<tr><td>Lk 316</td><td>Lk 23:27-31</td><td>Lk 23:27-27</td><td>End differs</td></tr>
+<tr><td>Jn  11</td><td>Canon 10   </td><td>Canon 1    </td><td>Canon differs</td></tr>
+<tr><td>Jn 124</td><td>Canon 9    </td><td>Canon 10   </td><td>Canon differs</td></tr>
+<tr><td>Jn 202</td><td>Jn 19:24-27</td><td>Jn 19.24C=19.25 NRSV</td><td>The sentence is part of verse Jn 19:24 in most translations, but is in Jn 19:25 in RSV and NRSV.</td></td>
+</table>
+
 
 
 
@@ -64,4 +102,5 @@ Bibliothèque nationale de France, Public domain, via Wikimedia Commons<br />
 The page shows canon 2 starting at 103-1-70, using the Greek numbering system.
 </p>
 
+See also <a href="https://en.wikipedia.org/wiki/Eusebian_Canons" target="_blank">https://en.wikipedia.org/wiki/Eusebian_Canons</a>.
 
