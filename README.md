@@ -51,7 +51,7 @@ Keven P. Edgecomb gives the verse or part of verse.  To get the words, each sect
  * When the line contains multiple punctuation marks, the first word after the major punctuation mark is the start of the section.  A period takes priority over a colon (upper dot), which takes priority over a comma.
  * In the few ambiguous cases, the context was taken into consideration.
 
-The following differences were found between Kevin P. Edgecomb and Nestle-Aland.  The information from Nestle-Aland was prefered.
+The following differences were found between Kevin P. Edgecomb and Nestle-Aland.  The information from Nestle-Aland was preferred.
 
 <table>
 <tr><th>Book-sct</th><th>Nestle-Aland</th><th>K.P.Edgecomb</th><th>Comment</th></tr>
@@ -82,7 +82,7 @@ As an illustration of the importance of Eusebian canons, two images below show e
 <a href="https://commons.wikimedia.org/wiki/File:German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg">Eusebius of Caesarea</a><br />
 Leaf from Gospels, showing the first canon, circa 875 (Middle Ages)<br />
 Public domain, via Wikimedia Commons<br />
-The page shows canon 2 starting at 8-2-7-10, using the Roman numbering system.
+The page shows canon 1 starting at 8-2-7-10, using the Roman numbering system.
 </p>
 
 
