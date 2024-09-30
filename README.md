@@ -66,8 +66,9 @@ The following differences were found between Kevin P. Edgecomb and Nestle-Aland.
 <tr><td>Jn  11</td><td>Canon 10   </td><td>Canon 1    </td><td>Canon differs</td></tr>
 <tr><td>Jn 124</td><td>Canon 9    </td><td>Canon 10   </td><td>Canon differs</td></tr>
 <tr><td>Jn 202</td><td>Jn 19:24-27</td><td>Jn 19.24C=19.25 NRSV</td><td>The sentence is part of verse Jn 19:24 in most translations, but is in Jn 19:25 in RSV and NRSV.</td></td>
+<tr><td colspan="4">Nestle-Aland has "166 82 94 17" in canon 1, whereas Kevin P. Edgecomb does not.</td></tr>
+<tr><td colspan="4">Nestle-Aland has "25 46" in canon 5, whereas Kevin P. Edgecomb has "24 46".</td></tr>
 </table>
-
 
 
 

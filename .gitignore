@@ -1,4 +1,5 @@
 
+
 eusebian_canons/OpenGNT_v3_3_with_eus.csv
 eusebian_canons/OpenGNT_version3_3.csv
 
@@ -15,6 +16,7 @@ eusebian_canons/mirr_exec_starttime_dege_chris.txt
 
 backups
 README_copy.sh
+eusebian_canons/README_copy.md
 
 eusebian_canons/Pipfile
 eusebian_canons/export_to_csv.py
