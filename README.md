@@ -5,19 +5,24 @@ The list of Eusebian Canons is sorted according to Nestle-Aland's list.  The col
  
 The source of the Greek New Testament is "OpenGNT_BASE_TEXT.zip" in the root of the "OpenGNT" repository in GitHub (see below).  The zip file is extracted to "OpenGNT_version3_3.csv".  At the end of each row, the Eusebian section information was added in the format "[tab](section_number|related canons)".  This gives the Eusebien section number for each word of the gospels.  The related canons are in a list separated by semi-colons ";".  For the books other than the gospels, a simple "[tab]" was added to the end of each row.
 
+Database has only the gospels, the csv has all NT
+
 For any questions, please contact chris _ thullen at yekesys do com.
+
+See also <a target="_blank" href="https://en.wikipedia.org/wiki/Eusebian_Canons" target="_blank">https://en.wikipedia.org/wiki/Eusebian_Canons</a>.
+
 
 # Sources
 
 ### Open GNT
 
-The OGNTsort numbers are found in the "OpenGNT" repository.  See <a href="https://github.com/eliranwong/OpenGNT" target="_blank">https://github.com/eliranwong/OpenGNT</a>.
+The OGNTsort numbers are found in the "OpenGNT" repository.  See <a target="_blank" href="https://github.com/eliranwong/OpenGNT" target="_blank">https://github.com/eliranwong/OpenGNT</a>.
 
 The source of the Greek New Testament is in "OpenGNT_BASE_TEXT.zip", which is at the root of the "OpenGNT" repository in GitHub.  
 
 The main text of Open Greek New Testament Project, OGNT in short, is released under the following license:
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Greek New Testament Project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://marvel.bible" property="cc:attributionName" rel="cc:attributionURL">Eliran Wong</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/OpenGNT" rel="dct:source">https://github.com/eliranwong/OpenGNT</a>.
+<a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Greek New Testament Project</span> by <a target="_blank" xmlns:cc="http://creativecommons.org/ns#" href="https://marvel.bible" property="cc:attributionName" rel="cc:attributionURL">Eliran Wong</a> is licensed under a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a target="_blank" xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/OpenGNT" rel="dct:source">https://github.com/eliranwong/OpenGNT</a>.
 
 
 This page and the files in this repository are released under this same license.
@@ -77,10 +82,10 @@ The following differences were found between Kevin P. Edgecomb and Nestle-Aland.
 As an illustration of the importance of Eusebian canons, two images below show examples in manuscripts.
 
 <p style="text-align: center">
-<a title="Eusebius of Caesarea
+<a target="_blank" title="Eusebius of Caesarea
 , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg"><img width="512" alt="German - Leaf from Gospels - Walters W424R - Open Obverse" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg/512px-German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg?20120325233856"></a>
 <br />
-<a href="https://commons.wikimedia.org/wiki/File:German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg">Eusebius of Caesarea</a><br />
+<a target="_blank" href="https://commons.wikimedia.org/wiki/File:German_-_Leaf_from_Gospels_-_Walters_W424R_-_Open_Obverse.jpg">Eusebius of Caesarea</a><br />
 Leaf from Gospels, showing the first canon, circa 875 (Middle Ages)<br />
 Public domain, via Wikimedia Commons<br />
 The page shows canon 1 starting at 8-2-7-10, using the Roman numbering system.
@@ -88,7 +93,7 @@ The page shows canon 1 starting at 8-2-7-10, using the Roman numbering system.
 
 
 <p style="text-align: center">
-<a title="Bibliothèque nationale de France
+<a target="_blank" title="Bibliothèque nationale de France
 , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Byzantinischer_Maler_um_1020_002.jpg"><img width="512" alt="Byzantinischer Maler um 1020 002" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Byzantinischer_Maler_um_1020_002.jpg/512px-Byzantinischer_Maler_um_1020_002.jpg?20050519045919"></a>
 <br />
 https://upload.wikimedia.org/wikipedia/commons/7/7e/Byzantinischer_Maler_um_1020_002.jpg<br />
@@ -96,5 +101,11 @@ Bibliothèque nationale de France, Public domain, via Wikimedia Commons<br />
 The page shows canon 2 starting at 103-1-70, using the Greek numbering system.
 </p>
 
-See also <a href="https://en.wikipedia.org/wiki/Eusebian_Canons" target="_blank">https://en.wikipedia.org/wiki/Eusebian_Canons</a>.
 
+# License
+
+As stated above in the section on sources, you may use the material freely with the conditions in <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">http://creativecommons.org/licenses/by-sa/4.0/</a>.
+
+This means you can copy and redistribute the material if you provide attribution and use the same license.
+
+If you use my material, I would appreciate an email, but it is not required.
