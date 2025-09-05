@@ -1,7 +1,8 @@
 # eusebian_canons
-List of Eusebian Canons, with the beginings and endings of each section
 
-The list of Eusebian Canons is sorted according to Nestle-Aland's list.  The column `na_sort_id` means "Nestle-Aland sort ID."  The values starting at 1,000 are for canon 1, those starting at 2,000 for canon 2, and so on until 10,000 for canon 10.
+This repository contains a list of Eusebian Canons, with the beginings and endings of each section.
+
+The list of Eusebian Canons is sorted according to Nestle-Aland's list (pages 74 to 78 of the 26th edition).  The column `na_sort_id` means "Nestle-Aland sort ID."  The values starting at 1,000 are for canon 1, those starting at 2,000 for canon 2, and so on until 10,000 for canon 10.
  
 The source of the Greek New Testament is "OpenGNT_BASE_TEXT.zip" in the root of the "OpenGNT" repository in GitHub (see below).  The zip file is extracted to "OpenGNT_version3_3.csv".  At the end of each row, the Eusebian section information was added in the format "[tab](section_number|related canons)".  This gives the Eusebien section number for each word of the gospels.  The related canons are in a list separated by semi-colons ";".  For the books other than the gospels, a simple "[tab]" was added to the end of each row.
 
