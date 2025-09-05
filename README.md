@@ -20,7 +20,7 @@ The main text of Open Greek New Testament Project, OGNT in short, is released un
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Greek New Testament Project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://marvel.bible" property="cc:attributionName" rel="cc:attributionURL">Eliran Wong</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/OpenGNT" rel="dct:source">https://github.com/eliranwong/OpenGNT</a>.
 
 
-This page is released under this same license.
+This page and the files in this repository are released under this same license.
 
 ### Eusebius of Caesarea, The Gospel Canon Tables
 
@@ -42,11 +42,11 @@ Nestle E., Nestle E., Aland K., et Al. (1979). Novum Testamentum Graece. Deutsch
 
 # Method
 
-The page from Keven P. Edgecomb was parsed and compared to the information in "adamb924/eusebian-canons" for verification.  Each entry was then compared to Nestle-Aland.  If the information differed, Nestle-Aland was considered the most reliable.
+The page from Keven P. Edgecomb was parsed and compared to the information in the github repository "adamb924/eusebian-canons" for verification.  Each entry was then compared to Nestle-Aland.  If the information differed, Nestle-Aland was considered the most reliable.
 
-Keven P. Edgecomb gives the verse or part of verse.  To get the words, each section was compared to the notes in the margin of Nestle-Aland.
+Keven P. Edgecomb gives the verse or part of verse.  The numbers in the margin of Nestle-Aland determine more exactly which words are in which Eusebian section.  The numbers indicate the line of the text where the Eusebian section starts, but they do not indicate exactly where each section starts.  The bullet points below describe how the beginnings of the sections were determined from numbers in the margins:
 
- * When the line where the section number in the margin is located contains the start of the verse, the first word of the verse is the start of the Eusebian section.
+ * When the line with the Eusebian section number contains the start of the verse, the first word of the verse is the start of the Eusebian section.
  * When the line is in the middle of a verse and contains a punctuation mark, the first word after the punctuation mark is the start of the section.
  * When the line contains multiple punctuation marks, the first word after the major punctuation mark is the start of the section.  A period takes priority over a colon (upper dot), which takes priority over a comma.
  * In the few ambiguous cases, the context was taken into consideration.
