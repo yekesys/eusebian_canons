@@ -5,8 +5,6 @@ The list of Eusebian Canons is sorted according to Nestle-Aland's list.  The col
  
 The source of the Greek New Testament is "OpenGNT_BASE_TEXT.zip" in the root of the "OpenGNT" repository in GitHub (see below).  The zip file is extracted to "OpenGNT_version3_3.csv".  At the end of each row, the Eusebian section information was added in the format "[tab](section_number|related canons)".  This gives the Eusebien section number for each word of the gospels.  The related canons are in a list separated by semi-colons ";".  For the books other than the gospels, a simple "[tab]" was added to the end of each row.
 
-Database has only the gospels, the csv has all NT
-
 For any questions, please contact chris _ thullen at yekesys do com.
 
 See also <a target="_blank" href="https://en.wikipedia.org/wiki/Eusebian_Canons" target="_blank">https://en.wikipedia.org/wiki/Eusebian_Canons</a>.
